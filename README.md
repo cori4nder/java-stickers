@@ -1,2 +1,2 @@
-# java-stickers
+# Java Stickers
 Imersão Java - Alura 
